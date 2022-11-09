@@ -16,7 +16,7 @@ Languages and Tools:
 
 
 
-https://raw.githubusercontent.com/xiwang-00/xiwang-00/3e0aa768234d66c54ecc0e26e2f7613d95f5bb41/github-contribution-grid-snake.svg
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/94694648/200801875-415a7e12-b384-4f1c-b2d8-2476e4c9bd5a.svg)
 <!---
 husanovjamshid/husanovjamshid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
