@@ -1,7 +1,7 @@
-Hey 👋 I'm JamshidBek 😎                                                      ![github](https://user-images.githubusercontent.com/94694648/200803475-1e1bed88-e311-42be-9bda-f287486e151f.gif)
+Hey 👋 I'm JamshidBek 😎                                                     
 
 
-Talking about Personal Stuffs:
+Talking about Personal Stuffs:                                                                     ![github](https://user-                                                                                                  images.githubusercontent.com/94694648/200803475-1e1bed88-e311-42be-9bda-f287486e151f.gif)
 
 - 🌱 I’m currently learning FullStack Web Programming
 - 👀 I’m interested in Football
