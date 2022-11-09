@@ -1,7 +1,7 @@
 Hey 👋 I'm JamshidBek 😎                                                     
 
 
-Talking about Personal Stuffs:                                                                     ![github](https://user-                                                                                                  images.githubusercontent.com/94694648/200803475-1e1bed88-e311-42be-9bda-f287486e151f.gif)
+Talking about Personal Stuffs:                                                                 
 
 - 🌱 I’m currently learning FullStack Web Programming
 - 👀 I’m interested in Football
@@ -17,7 +17,8 @@ Languages and Tools:
 
 
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/94694648/200801875-415a7e12-b384-4f1c-b2d8-2476e4c9bd5a.svg)
+![github](https://user-images.githubusercontent.com/94694648/200804706-126ffc27-20c1-4454-9ca4-cccd7a9442f4.gif)
+
 <!---
 husanovjamshid/husanovjamshid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
