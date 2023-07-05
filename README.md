@@ -3,10 +3,10 @@ Hey 👋 I'm JamshidBek 😎
 
 Talking about Personal Stuffs:                                                                 
 
-- 🌱 I’m currently learning FullStack Web Programming
+- 🌱 I’m currently learning NodeJS
 - 👀 I’m interested in Football
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/khusanov_o2
+- 📫 How to reach me https://t.me/Jamshidbek_Husanov
 
 Languages and Tools:
 
