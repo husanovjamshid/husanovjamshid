@@ -3,7 +3,7 @@ Hey 👋 I'm JamshidBek 😎
 
 Talking about Personal Stuffs:                                                                 
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NextJS
 - 👀 I’m interested in Football
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/Jamshidbek_Husanov
